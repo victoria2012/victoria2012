@@ -1,14 +1,12 @@
-반갑습니다. 
+멀티캠퍼스에서  `빅데이터 기반 지능형 서비스 개발` 과정을 수료한 주창석입니다. 
 
-저는 현재 경기도에 살고 있습니다. 
 
-지금 빅데이터 기반 지능형 서비스 개발 과정을 공부하고 있습니다. 
 
-github 공부를 하고 있습니다. test 중입니다. 
+[🔨](https://emojikeyboard.org/copy/Hammer_Emoji_🔨)   Stack  🔐
 
-| 연도  | 경력  | 비고 |
-| ----- | ---- | ---- |
-| 2021  |      |      |
-| 2019  |      |      |
-| 2015  |      |      |
+Techs that I've used at least once
+
+```null
+<a href="https://www.Python.org/" target="_blank"><img src="https://img.shields.io/badge/python-#3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+```
 
