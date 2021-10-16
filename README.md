@@ -21,19 +21,21 @@
 
 #### '빅데이터 기반 지능형 서비스 개발' 과정에서의 주요 성과
 
-* 100% 출석 달성
+* 100% 출석 달성 및 수료
+
+  <img src="https://github.com/victoria2012/victoria2012/blob/master/md-images/%EB%A9%80%ED%8B%B0%EC%BA%A0%ED%8D%BC%EC%8A%A4%20%EC%88%98%EB%A3%8C%EC%A6%9D.pdf">
 
 * 단위기간 우수훈련생 선정
 
-  
+  <img src="https://github.com/victoria2012/victoria2012/blob/master/md-images/%EC%9A%B0%EC%88%98%ED%9B%88%EB%A0%A8%EC%83%9D.png">
 
 * 1차 세미프로젝트 우수상 수상
 
-  
+  <img src="https://github.com/victoria2012/victoria2012/blob/master/md-images/%5BKDT%5D%20%EC%9A%B0%EC%88%98%EC%83%81%EC%9E%A5.pdf">
 
 * 2차 세미프로젝트 최우수상 수상
 
-
+  <img src="https://github.com/victoria2012/victoria2012/blob/master/md-images/%5BKDT%5D%20AI%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%9C%EB%B0%9CPTJ_%EC%B5%9C%EC%9A%B0%EC%88%98%EC%83%81.pdf">
 
 
 
