@@ -4,7 +4,7 @@
 
 * 매일 CodeUp, 백준, 프로그래머스 등에서 Python으로 문제를 풀어보면서 실력을 향상시키고 있습니다.
 
-  <br><br>
+  <br>
 
 ### 💻멀티캠퍼스, '빅데이터 기반 지능형 서비스 개발' 과정 소개
 
@@ -33,8 +33,8 @@
 * 2차 세미프로젝트 : 🥇`최우수상` 수상
   * <a href="https://github.com/victoria2012/victoria2012/blob/master/md-images/%5BKDT%5D%20AI%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%9C%EB%B0%9CPTJ_%EC%B5%9C%EC%9A%B0%EC%88%98%EC%83%81.pdf">상장 보기</a>
   * <a href="https://github.com/victoria2012/TeamProject">프로젝트 보기</a>
-
 * <a href="https://github.com/victoria2012/HEXinAR_exawave_service">3차 세미프로젝트 보기</a>
+  * <a href="https://github.com/victoria2012/victoria2012/blob/master/md-images/%ED%8F%89%EA%B0%80%EB%82%B4%EC%9A%A9.png">피드백 내용 보기</a>
 
 ​    
 
