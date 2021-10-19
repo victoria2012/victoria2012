@@ -33,7 +33,7 @@
 * 2차 세미프로젝트 : 🥇`최우수상` 수상
   * <a href="https://github.com/victoria2012/victoria2012/blob/master/md-images/%5BKDT%5D%20AI%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%9C%EB%B0%9CPTJ_%EC%B5%9C%EC%9A%B0%EC%88%98%EC%83%81.pdf">상장 보기</a>
   * <a href="https://github.com/victoria2012/TeamProject">프로젝트 보기</a>
-* <a href="https://github.com/victoria2012/HEXinAR_exawave_service">3차 세미프로젝트 보기</a>
+* <a href="https://github.com/victoria2012/HEXinAR_exawave_service">파이널 프로젝트 보기</a>
   * <a href="https://github.com/victoria2012/victoria2012/blob/master/md-images/%ED%8F%89%EA%B0%80%EB%82%B4%EC%9A%A9.png">피드백 내용 보기</a>
 
 ​    
