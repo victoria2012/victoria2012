@@ -8,12 +8,12 @@
 
 ### 💻멀티캠퍼스, '빅데이터 기반 지능형 서비스 개발' 과정 소개
 
-* 교육기간 : 2021년 5월 17일 ~ 10월 8일(총 5개월,  844시간)
-* 교육시간 
+* **교육기간** : 2021년 5월 17일 ~ 10월 8일(총 5개월,  844시간)
+* **교육시간** 
   * 정규 강의 : 월요일~금요일 09:00 ~18:00
   * 특강 및 멘토링 : 토요일 09:00 ~ 18:00
 
-* 교육내용 
+* **교육내용** 
   * Python 프로그래밍
   * Python 라이브러리를 활용한 데이터 전처리
   * Django를 이용한 웹 인터페이스
@@ -27,14 +27,13 @@
 
 * <a href="https://github.com/victoria2012/victoria2012/blob/master/md-images/%EB%A9%80%ED%8B%B0%EC%BA%A0%ED%8D%BC%EC%8A%A4%20%EC%88%98%EB%A3%8C%EC%A6%9D.pdf">100% 출석 달성 및 수료</a>
 * <a href="https://github.com/victoria2012/victoria2012/blob/master/md-images/%EC%9A%B0%EC%88%98%ED%9B%88%EB%A0%A8%EC%83%9D.png">단위기간 우수훈련생 선정</a>
-* 1차 세미프로젝트 : 🥈`우수상` 수상
+* **1차 세미프로젝트** : 🥈`우수상` 수상
   * <a href="https://github.com/victoria2012/victoria2012/blob/master/md-images/%5BKDT%5D%20%EC%9A%B0%EC%88%98%EC%83%81%EC%9E%A5.pdf">상장 보기</a>
   * <a href="https://github.com/victoria2012/Multi_A_2Team">프로젝트 내용 보기</a>
-* 2차 세미프로젝트 : 🥇`최우수상` 수상
+* **2차 세미프로젝트** : 🥇`최우수상` 수상
   * <a href="https://github.com/victoria2012/victoria2012/blob/master/md-images/%5BKDT%5D%20AI%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%9C%EB%B0%9CPTJ_%EC%B5%9C%EC%9A%B0%EC%88%98%EC%83%81.pdf">상장 보기</a>
   * <a href="https://github.com/victoria2012/TeamProject">프로젝트 내용 보기</a>
-* 파이널 프로젝트
-  
+* **파이널 프로젝트**
   * <a href="https://github.com/victoria2012/victoria2012/blob/master/md-images/%ED%8F%89%EA%B0%80%EB%82%B4%EC%9A%A9.png">피드백 내용 보기</a>
   
   * <a href="https://github.com/victoria2012/HEXinAR_exawave_service">프로젝트 내용 보기</a>
